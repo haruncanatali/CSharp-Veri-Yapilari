@@ -1,0 +1,7 @@
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\List\bin\Debug\List.exe.config
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\List\bin\Debug\List.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\List\bin\Debug\List.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\List\obj\Debug\List.csproj.AssemblyReference.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\List\obj\Debug\List.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\List\obj\Debug\List.pdb

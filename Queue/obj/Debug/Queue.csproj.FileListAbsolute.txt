@@ -1,0 +1,6 @@
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Queue\bin\Debug\Queue.exe.config
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Queue\bin\Debug\Queue.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Queue\bin\Debug\Queue.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Queue\obj\Debug\Queue.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Queue\obj\Debug\Queue.pdb

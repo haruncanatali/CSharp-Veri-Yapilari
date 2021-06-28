@@ -1,0 +1,7 @@
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Stack\bin\Debug\Stack.exe.config
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Stack\bin\Debug\Stack.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Stack\bin\Debug\Stack.pdb
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Stack\obj\Debug\Stack.exe
+E:\derscalismalarim\GitHub Ornek Gelistirme Klasoru\CSharpVeriYapilari\Stack\obj\Debug\Stack.pdb
